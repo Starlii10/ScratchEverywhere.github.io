@@ -26,7 +26,7 @@ export default defineConfig({
   ],
   themeConfig: {
     logo:
-      "https://github.com/ScratchEverywhere/ScratchEverywhere/blob/main/gfx/logo-se.png?raw=true",
+      "https://github.com/ScratchEverywhere/ScratchEverywhere/blob/main/gfx/logo_se.png?raw=true",
     siteTitle: false,
     sidebar: [
       {
